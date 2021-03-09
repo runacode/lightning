@@ -1,7 +1,7 @@
-<?php $company = "DAHL S AUTO WORKS INC";
-$phone = "(507) 864-7711";
-	$address1 = "207 N ELM ST";
-	$address2 = "RUSHFORD, MN 55971";
+<?php $company = "Lightning Heating Air Conditioning & Commercial Refrigeration";
+$phone = "(405) 624-3228";
+	$address1 = "4301 Sierra Ln";
+	$address2 = "Stillwater, OK 74074";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
